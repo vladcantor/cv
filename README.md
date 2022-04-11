@@ -58,7 +58,7 @@ The goal was to extend the lifecycle of this system by creating a data archiving
     - Provide high-level estimates for different initiatives.
 
 1. Technologies
-    - Java &starf;&star;&star;&star;&star;
+    - Java <span>&starf;&star;&star;&star;&star;<span>
     - SockJS &starf;&star;&star;&star;&star;
     - Angular &starf;&starf;&starf;&starf;&star;
     - AWS &starf;&star;&star;&star;&star;
