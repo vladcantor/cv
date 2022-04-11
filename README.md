@@ -15,27 +15,78 @@ I consider myself as a person who is in love with complicated problems, that get
 ### [Yonder](https://tss-yonder.com/)
 
 I started working at Yonder in December 2016.
+
+#### **Pre-sales activities**
+
+In 2019 I started being involved in meetings with possible clients to assess and understand their needs from a technical point of view.
+
+1. Resposibilities:
+    - Based on a few meetings:
+        - Try to Understand as well as possible the client needs and the industry the system activates in.
+        - Provide Very High level estimates, where possible.
+        - Propose possible technologies that would support the new system.
+    - Create a Document that is a summary of the above.
+    - Present it to the steakholders.
+
 #### **Docketing System in Legal Industry**
 
-#### **Laboratory Information Management System in Mining Industry**
+The goal of this project is to architect and prototype the transformation of a Desktop, Client-Server, On-Premise Docketing System into a Web, SAAS, Multitenant one. This project started in January 2022.
 
+1. Resposibilitites
+    - Propose different technologies and technics based on Client needs.
+    - Investigate and Prototype the new system.
+
+1. Technologies
+    - ASP.NET Core
+    - .Net 6
+    - Azure
+    - Azure Service Bus
+    - Azure Functions
+    - Azure Active Directory
+
+#### **Laboratory Information Management System in Mining Industry**
+The goal of the project was to extend the lifecycle of this system by creating a data archiving solution and migrating the frontend from Apache/Adobe Flex to a modern web technology. This project started in the spring of 2020 and ended in January 2022.
+
+1. Resposibilities
+    - Propose different technologies and technics based on Client needs.
+    - Prototype and Develop a Data Archiving Solution. Assess the performance of the system after the archiving solution is in place.
+    - Investigate and Prototype the migration of a Rich Data Grid from Apache Flex to Angular, which has a State Machine behind it.
+    - Investigate and prototype the migration of a propriatary Web Framework from Apache Flex to Angular.
+    - Create documentation and transfer knowledge to other development teams.
+    - Mentor members from my team.
+    - Create the initial set-up for new initiatives.
+
+1. Technologies
+    - Java
+    - SockJS
+    - Angular
+    - AWS
+    - Oracle
+    - Docker
 
 #### **Food Chain Management System in Healthcare**
 
-The goal of this project was to transform a Desktop, client-server application, into a suite of Web Applications. The transformation was persona-based. I worked on this project from December 2016 until the spring of 2020.
+The goal of this project was to extend the lifecycle of the system by creating multiple Web applications around its data. I worked on this project from December 2016 until the spring of 2020.
 
 1. Responsibilities
     - Develop and maintain HIPAA compliant software.
     - Plan and develop migration from AngularJS to Angular 7+.
     - Plan and develop a Single Sign-On mechanism based on NTLM and Kerberos.
-    - Assess and resolve performance issues. Help the QA team to develop a set of Load Tests.
-    - Collaborate with the team, the product owners from the client, and the stakeholders in the creation and implementation of the product definitions.
+    - Assess and resolve performance issues. Help the QA team in the development of a set of Load Tests.
+    - Collaborate with the team, the product owners from the client, and the stakeholders in the creation and implementation of different products.
+    - Maintain and extend CI/CD pipelines. 
+    - Mentor members from my team.
+    - Get involved in the Code review process.
+    - Create documentation and transfer knowledge to other development teams.
+    - Propose different technologies and technics based on Client needs.
+    - Create the initial set-up for new initiatives.
 
 1. Technologies
     - ASP.NET Core
     - Entity Framework
     - AngularJS & Angular
     - Oracle
+    - Azure DevOps
 
 ### [UMT Software](https://www.umtsoftware.com/umt360/)
 
