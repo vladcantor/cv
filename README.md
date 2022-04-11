@@ -1,6 +1,3 @@
----
-title: Hello World, my name is Vlad-Mihai Cantor-Mândru!
----
 # Hello World, my name is Vlad-Mihai Cantor-Mândru!
 
 ## Useful Links & Contact
