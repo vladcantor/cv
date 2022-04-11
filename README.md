@@ -1,9 +1,9 @@
 # Hello World, my name is Vlad-Mihai Cantor-Mândru!
 
-## Contact
+## Useful Links & Contact
 - [Linkedin](https://www.linkedin.com/in/vlad-mihai-cantor-m%C3%A2ndru-9b0134101)
 - [Credly](https://www.credly.com/users/vlad-cantor)
-- [Email](vlad_cantor@yahoo.ro)
+- Email: vlad_cantor@yahoo.ro
 - [GitHub](https://github.com/vladcantor)
 
 ## Who am I?
@@ -20,19 +20,19 @@ I started working at Yonder in December 2016.
 
 In 2019 I started being involved in meetings with possible clients to assess and understand their needs from a technical point of view.
 
-1. Resposibilities:
+1. Responsibilities:
     - Based on a few meetings:
-        - Try to Understand as well as possible the client needs and the industry the system activates in.
-        - Provide Very High level estimates, where possible.
-        - Propose possible technologies that would support the new system.
-    - Create a Document that is a summary of the above.
-    - Present it to the steakholders.
+        - Try to understand as well as possible the client's needs and the industry of the system.
+        - Provide Very High-level estimates, where possible.
+        - Propose possible technologies and techniques that address the pain points.
+    - Create a Document that summarises all of the above.
+    - Present it to the stakeholders.
 
 #### **Docketing System in Legal Industry**
 
-The goal of this project is to architect and prototype the transformation of a Desktop, Client-Server, On-Premise Docketing System into a Web, SAAS, Multitenant one. This project started in January 2022.
+The goal of this project is to architect and prototype the transformation of a Desktop, Client-Server, On-Premise Docketing System into a Web, SAAS, and Multitenant one. This project started in January 2022.
 
-1. Resposibilitites
+1. Responsibilities
     - Propose different technologies and technics based on Client needs.
     - Investigate and Prototype the new system.
 
@@ -45,16 +45,17 @@ The goal of this project is to architect and prototype the transformation of a D
     - Azure Active Directory
 
 #### **Laboratory Information Management System in Mining Industry**
-The goal of the project was to extend the lifecycle of this system by creating a data archiving solution and migrating the frontend from Apache/Adobe Flex to a modern web technology. This project started in the spring of 2020 and ended in January 2022.
+The goal was to extend the lifecycle of this system by creating a data archiving solution and migrating the frontend from Apache/Adobe Flex to modern web technologies. This project started in the spring of 2020 and ended in January 2022.
 
-1. Resposibilities
+1. Responsibilities
     - Propose different technologies and technics based on Client needs.
     - Prototype and Develop a Data Archiving Solution. Assess the performance of the system after the archiving solution is in place.
     - Investigate and Prototype the migration of a Rich Data Grid from Apache Flex to Angular, which has a State Machine behind it.
-    - Investigate and prototype the migration of a propriatary Web Framework from Apache Flex to Angular.
+    - Investigate and prototype the migration of a proprietary Web Framework from Apache Flex to Angular.
     - Create documentation and transfer knowledge to other development teams.
     - Mentor members from my team.
     - Create the initial set-up for new initiatives.
+    - Provide high-level estimates for different initiatives.
 
 1. Technologies
     - Java
@@ -80,6 +81,7 @@ The goal of this project was to extend the lifecycle of the system by creating m
     - Create documentation and transfer knowledge to other development teams.
     - Propose different technologies and technics based on Client needs.
     - Create the initial set-up for new initiatives.
+    - Provide high-level estimates for different initiatives.
 
 1. Technologies
     - ASP.NET Core
