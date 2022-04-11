@@ -1,1 +1,8 @@
 theme: jekyll-theme-hacker
+markdown: kramdown
+safe: true
+encoding: UTF-8
+liquid:
+  error_mode: warn
+  strict_filters: false
+  strict_variables: false
