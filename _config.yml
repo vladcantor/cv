@@ -2,3 +2,5 @@ theme: jekyll-theme-hacker
 markdown: kramdown
 safe: true
 encoding: UTF-8
+plugins:
+  - jemoji
