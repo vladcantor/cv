@@ -37,7 +37,7 @@ The goal of this project is to architect and prototype the transformation of a D
     - Investigate and Prototype the new system.
 
 1. Technologies
-    - ASP.NET Core &starf;&starf;&starf;&starf;&star;
+    - ASP.NET Core :star: &starf;&starf;&starf;&star;
     - .Net 6 &starf;&starf;&starf;&star;&star;
     - Azure &starf;&starf;&star;&star;&star;
     - Azure Service Bus &starf;&starf;&starf;&star;&star;
