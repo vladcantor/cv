@@ -11,27 +11,27 @@
 I consider myself as a person who is in love with complicated problems, that gets enthusiastic whenever a new challenge appears and is curious about how things work.
 
 
-## Technologies
-- ASP.NET Core :white_check_mark::white_check_mark::white_check_mark::white_check_mark::white_square_button:
-- ASP.NET :white_check_mark::white_square_button::white_square_button::white_square_button::white_square_button:
-- .Net 6 :white_check_mark::white_check_mark::white_check_mark::white_square_button::white_square_button:
-- Azure :white_check_mark::white_check_mark::white_square_button::white_square_button::white_square_button:
-- Azure Service Bus :white_check_mark::white_check_mark::white_check_mark::white_square_button::white_square_button:
-- Azure Functions :white_check_mark::white_check_mark::white_check_mark::white_square_button::white_square_button:
-- Azure Active Directory :white_check_mark::white_check_mark::white_check_mark::white_square_button::white_square_button:
-- Azure DevOps :white_check_mark::white_check_mark::white_check_mark::white_square_button::white_square_button:
-- Java :white_check_mark::white_square_button::white_square_button::white_square_button::white_square_button:
-- SockJS :white_check_mark::white_square_button::white_square_button::white_square_button::white_square_button:
-- AWS :white_check_mark::white_square_button::white_square_button::white_square_button::white_square_button:
-- Docker :white_check_mark::white_check_mark::white_check_mark::white_square_button::white_square_button:
-- Entity Framework :white_check_mark::white_check_mark::white_check_mark::white_check_mark::white_square_button:
-- AngularJS & Angular :white_check_mark::white_check_mark::white_check_mark::white_check_mark::white_square_button:
-- Oracle :white_check_mark::white_check_mark::white_square_button::white_square_button::white_square_button:
-- SQL Server :white_check_mark::white_check_mark::white_square_button::white_square_button::white_square_button:
-- JQuery and JavaScript :white_check_mark::white_check_mark::white_square_button::white_square_button::white_square_button:
-- SharePoint :white_check_mark::white_square_button::white_square_button::white_square_button::white_square_button:
+## Some of the Technologies I stumbled upon
+- ASP.NET Core :+1::+1::+1::+1::-1:
+- ASP.NET :+1::-1::-1::-1::-1:
+- .Net 6 :+1::+1::+1::-1::-1:
+- Azure :+1::+1::-1::-1::-1:
+- Azure Service Bus :+1::+1::+1::-1::-1:
+- Azure Functions :+1::+1::+1::-1::-1:
+- Azure Active Directory :+1::+1::+1::-1::-1:
+- Azure DevOps :+1::+1::+1::-1::-1:
+- Java :+1::-1::-1::-1::-1:
+- SockJS :+1::-1::-1::-1::-1:
+- AWS :+1::-1::-1::-1::-1:
+- Docker :+1::+1::+1::-1::-1:
+- Entity Framework :+1::+1::+1::+1::-1:
+- AngularJS & Angular :+1::+1::+1::+1::-1:
+- Oracle :+1::+1::-1::-1::-1:
+- SQL Server :+1::+1::-1::-1::-1:
+- JQuery and JavaScript :+1::+1::-1::-1::-1:
+- SharePoint :+1::-1::-1::-1::-1:
 
-## Experience
+## My Experience so far
 
 ### [Yonder](https://tss-yonder.com/)
 
