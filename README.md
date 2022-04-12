@@ -10,7 +10,28 @@
 
 I consider myself as a person who is in love with complicated problems, that gets enthusiastic whenever a new challenge appears and is curious about how things work.
 
-## Experience
+
+## Some of the Technologies I stumbled upon
+- ASP.NET Core :+1::+1::+1::+1::-1:
+- ASP.NET :+1::-1::-1::-1::-1:
+- .Net 6 :+1::+1::+1::-1::-1:
+- Azure :+1::+1::-1::-1::-1:
+- Azure Service Bus :+1::+1::+1::-1::-1:
+- Azure Functions :+1::+1::+1::-1::-1:
+- Azure Active Directory :+1::+1::+1::-1::-1:
+- Azure DevOps :+1::+1::+1::-1::-1:
+- Java :+1::-1::-1::-1::-1:
+- SockJS :+1::-1::-1::-1::-1:
+- AWS :+1::-1::-1::-1::-1:
+- Docker :+1::+1::+1::-1::-1:
+- Entity Framework :+1::+1::+1::+1::-1:
+- AngularJS & Angular :+1::+1::+1::+1::-1:
+- Oracle :+1::+1::-1::-1::-1:
+- SQL Server :+1::+1::-1::-1::-1:
+- JQuery and JavaScript :+1::+1::-1::-1::-1:
+- SharePoint :+1::-1::-1::-1::-1:
+
+## My Experience so far
 
 ### [Yonder](https://tss-yonder.com/)
 
@@ -37,12 +58,12 @@ The goal of this project is to architect and prototype the transformation of a D
     - Investigate and Prototype the new system.
 
 1. Technologies
-    - ASP.NET Core &starf;&starf;&starf;&starf;&star;
-    - .Net 6 &starf;&starf;&starf;&star;&star;
-    - Azure &starf;&starf;&star;&star;&star;
-    - Azure Service Bus &starf;&starf;&starf;&star;&star;
-    - Azure Functions &starf;&starf;&starf;&star;&star;
-    - Azure Active Directory &starf;&starf;&starf;&star;&star;
+    - ASP.NET Core
+    - .Net 6 
+    - Azure
+    - Azure Service Bus 
+    - Azure Functions
+    - Azure Active Directory 
 
 #### **Laboratory Information Management System in Mining Industry**
 The goal was to extend the lifecycle of this system by creating a data archiving solution and migrating the frontend from Apache/Adobe Flex to modern web technologies. This project started in the spring of 2020 and ended in January 2022.
@@ -58,12 +79,12 @@ The goal was to extend the lifecycle of this system by creating a data archiving
     - Provide high-level estimates for different initiatives.
 
 1. Technologies
-    - Java <span>&starf;&star;&star;&star;&star;<span>
-    - SockJS &starf;&star;&star;&star;&star;
-    - Angular &starf;&starf;&starf;&starf;&star;
-    - AWS &starf;&star;&star;&star;&star;
-    - Oracle &starf;&starf;&starf;&star;&star;
-    - Docker &starf;&starf;&starf;&star;&star;
+    - Java 
+    - SockJS 
+    - Angular
+    - AWS 
+    - Oracle 
+    - Docker 
 
 #### **Food Chain Management System in Healthcare**
 
@@ -84,11 +105,11 @@ The goal of this project was to extend the lifecycle of the system by creating m
     - Provide high-level estimates for different initiatives.
 
 1. Technologies
-    - ASP.NET Core &starf;&starf;&starf;&starf;&star;
-    - Entity Framework &starf;&starf;&starf;&starf;&star;
-    - AngularJS & Angular &starf;&starf;&starf;&starf;&star;
-    - Oracle &starf;&starf;&star;&star;&star;
-    - Azure DevOps &starf;&starf;&starf;&star;&star;
+    - ASP.NET Core 
+    - Entity Framework 
+    - AngularJS & Angular 
+    - Oracle
+    - Azure DevOps
 
 ### [UMT Software](https://www.umtsoftware.com/umt360/)
 
@@ -100,10 +121,10 @@ Responsibilities:
 - Modified existing software to detect and correct errors, improve performance, and upgrade interfaces.
 
 Technologies:
-- SQL Server &starf;&starf;&star;&star;&star;
-- ASP.NET &starf;&star;&star;&star;&star;
-- JQuery and JavaScript &starf;&starf;&star;&star;&star;
-- SharePoint &starf;&star;&star;&star;&star;
+- SQL Server 
+- ASP.NET 
+- JQuery and JavaScript 
+- SharePoint
 
 ### IOS training at [AROBS](https://arobs.com/)
 
